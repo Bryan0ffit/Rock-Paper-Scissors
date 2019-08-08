@@ -92,4 +92,4 @@ while status:
 
 
     
-""" use if statements to set total number of r,p, or s chosen"""
+
